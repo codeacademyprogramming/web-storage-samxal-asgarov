@@ -1,0 +1,31 @@
+img{
+    position: relative;
+}
+.qiymet{
+    border:1px solid red;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    width: 80px;
+    height:40px;
+    position: absolute;
+    top:46%;
+    left:1%;
+
+}
+.heart{
+    position: absolute;
+    top: 0%;
+    left: 3%;
+}
+.heart svg{
+    width: 21px;
+    height: 21px;
+    cursor: pointer;
+}
+.col-3{
+    display: inline-block;
+}
+.darkmode{
+    color:red;
+}
